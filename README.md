@@ -6,7 +6,8 @@
 
 ## `Features`
 
-- Add Todos
+- Add, edit and remove tasks
+- Mark a task as resolved
 
 ## `Tech Stack`
 
